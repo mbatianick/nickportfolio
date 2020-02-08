@@ -21,5 +21,8 @@ h3 {
     font-size: 25px;
 }
 hr {
-    size: 10px;
+    font-size: 5px;
+}
+.proj {
+    font-size: 30px;
 }
