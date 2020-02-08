@@ -29,4 +29,8 @@ hr {
 }
 .project {
     font-size: 25px;
+    color: rgb(150, 141, 141);
+}
+.ms {
+    color: rgb(48, 13, 13);
 }
