@@ -25,5 +25,8 @@ hr {
 }
 .proj {
     font-size: 50px;
-    color: black;
+    color: black
+}
+.project {
+    font-size: 25px;
 }
