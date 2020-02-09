@@ -37,3 +37,10 @@ hr {
 hr {
     color: rgb(206, 97, 97);
 }
+.head {
+    color: rgb(223, 118, 118);
+    font-size: 40px;
+}
+.me {
+    background-image: url(../images/nick.png);
+}
