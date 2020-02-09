@@ -44,3 +44,7 @@ hr {
 .me {
     background-image: url(../images/nick.png);
 }
+.me {
+    font-size: 25px;
+    color: rgb(48, 13, 13);
+}
